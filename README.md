@@ -12,3 +12,7 @@
 ![motor_control3](./image/motor_control3.png)
 ![motor_control4](./image/motor_control4.png)
 
+![PMDC_sim1_1](./image/PMDC_sim1_1.jpg)
+![PMDC_sim2_1](./image/PMDC_sim2_1.jpg)
+
+

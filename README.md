@@ -1,5 +1,7 @@
 
 ### PMDC motor
+![motor_control2](./image/PMDC_motor_1.jpg)
+
 ![motor_control2](./image/motor_control2.png)
 ![motor_control3](./image/motor_control3.png)
 ![motor_control4](./image/motor_control4.png)

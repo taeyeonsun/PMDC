@@ -1,3 +1,3 @@
 
 ### PMDC motor
-![motor_torque1](./image/motor_torque_1.jpg)
+![motor_torque1](./motor_torque_1.jpg)

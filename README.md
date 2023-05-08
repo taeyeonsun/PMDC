@@ -1,3 +1,5 @@
+### 건국대 MATLAB 공개 강의 참조하여 만들었습니다.
+
 ### Laplace Transform
 최종식에서 sθ(s)  =  w(s), 같은 K값을 적용하면 
 
@@ -14,5 +16,7 @@
 
 ![PMDC_sim1_1](./image/PMDC_sim1_1.jpg)
 ![PMDC_sim2_1](./image/PMDC_sim2_1.jpg)
+
+
 
 
